@@ -1,0 +1,13 @@
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.exe
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.deps.json
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.runtimeconfig.json
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.runtimeconfig.dev.json
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.dll
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\bin\Debug\netcoreapp3.1\IterationsExercise3.pdb
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.csproj.AssemblyReference.cache
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.AssemblyInfoInputs.cache
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.AssemblyInfo.cs
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.dll
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.pdb
+C:\Users\phoen\repos\IterationsExercise3\IterationsExercise3\obj\Debug\netcoreapp3.1\IterationsExercise3.genruntimeconfig.cache
